@@ -1,9 +1,15 @@
+# CODING PORTOFOLIO
+
+## Contact Information
+
+Email: nabeelomar93@gmail.com  
+Linkedin: https://www.linkedin.com/in/nabeel-omar/  
 
 I am currently working as a structural engineer Nadeson Consulting Services with approximately four years of professional experience. I obtained both a Bachelors and a Master’s degree, with distinction in coursework, in Civil Engineering from the University of Cape Town (UCT) in 2018. 
 
 ## CODING PROJECTS
 
-### Principcal Component Analysis - US Arrests
+### Principal Component Analysis - US Arrests
 https://github.com/mowbraysuburbs/PCA_USArrests
 
 ### Book Store Clerk Program - sqlite
@@ -18,6 +24,8 @@ https://github.com/mowbraysuburbs/Tableau_Volcanoes
 ### Reinforcement Learning - Multi-armed Bandits
 https://github.com/mowbraysuburbs/ML_Reinf_Learn_Multi_Armed_Bandits
 
+### Recurrent Neural Network - Sentiment Analysis
+https://github.com/mowbraysuburbs/Sentiment_Analysis_RNN
 
 ## EDUCATION
 
@@ -122,7 +130,4 @@ UCT
 
 
 
-## Contact Information
 
-Email: nabeelomar93@gmail.com  
-Linkedin: https://www.linkedin.com/in/nabeel-omar/  

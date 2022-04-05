@@ -1,4 +1,4 @@
-# PORTFOLIO
+![ilya-pavlov-OqtafYT5kTw-unsplash](https://user-images.githubusercontent.com/60255967/161802979-f4d1623a-545c-4f97-b222-10218c678ac3.jpg)
 
 I am currently working as a structural engineer Nadeson Consulting Services with approximately four years of professional experience. I obtained both a Bachelors and a Master’s degree, with distinction in coursework, in Civil Engineering from the University of Cape Town (UCT) in 2018. 
 

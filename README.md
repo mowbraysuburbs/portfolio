@@ -1,16 +1,29 @@
-![ilya-pavlov-OqtafYT5kTw-unsplash](https://user-images.githubusercontent.com/60255967/161802979-f4d1623a-545c-4f97-b222-10218c678ac3.jpg)
 
 I am currently working as a structural engineer Nadeson Consulting Services with approximately four years of professional experience. I obtained both a Bachelors and a Master’s degree, with distinction in coursework, in Civil Engineering from the University of Cape Town (UCT) in 2018. 
 
 ## CODING PROJECTS
 
-TBC
+### Principcal Component Analysis - US Arrests
+https://github.com/mowbraysuburbs/PCA_USArrests
+
+### Book Store Clerk Program - sqlite
+https://github.com/mowbraysuburbs/Book_clerk_sqlite
+
+### Exploratory Data Aanalysis - Spotify’s 2019 top 50 songs 
+https://github.com/mowbraysuburbs/EDA_Spotify_top50_2019
+
+### Tableau Dashboard - Volcanoes
+https://github.com/mowbraysuburbs/Tableau_Volcanoes
+
+### Reinforcement Learning - Multi-armed Bandits
+https://github.com/mowbraysuburbs/ML_Reinf_Learn_Multi_Armed_Bandits
+
 
 ## EDUCATION
 
 ### DATA SCIENTIST BOOTCAMP
 HYPERIONDEV   
-2021/11 ― Present	 
+2021/11 ― 2022/04
 
 - Using Python to conduct exploratory data analysis i.e. pandas and numpy
 - Data visualisation concepts using Tableau, matplotlib and seaborn

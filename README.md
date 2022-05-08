@@ -5,7 +5,7 @@
 Email: nabeelomar93@gmail.com  
 Linkedin: https://www.linkedin.com/in/nabeel-omar/  
 
-I am currently working as a structural engineer Nadeson Consulting Services with approximately four years of professional experience. I obtained both a Bachelors and a Master’s degree, with distinction in coursework, in Civil Engineering from the University of Cape Town (UCT) in 2018. 
+I am a versatile and motivated structural engineer based in Cape Town with over four years of professional engineering experience. I obtained both a Bachelors and a Master’s degree (distinction in coursework) in Civil Engineering from the University of Cape Town (UCT). Recently, I have completed Hyperiondev's Data Scientist bootcamp. 
 
 ## CODING PROJECTS
 

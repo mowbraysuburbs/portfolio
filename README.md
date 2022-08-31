@@ -9,7 +9,7 @@ I am a versatile and motivated structural engineer based in Cape Town with over 
 
 ## CODING PROJECTS
 
-### Spotify ETL using AWS (in progress)
+### Spotify ETL using AWS 
 https://github.com/mowbraysuburbs/Spotify_ETL
 
 ### Employee Leave Period Optimisation
